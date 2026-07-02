@@ -1,5 +1,6 @@
-Project Title: Weather-Aware Agentic Travel Swarm via Model Context Protocol (MCP)
-Project Overview
+System  Title: Weather-Aware Agentic Travel Swarm via     Air bnb Model Context Protocol (MCP)
+
+System Overview
 
 Developed and deployed a localized, high-throughput multi-agent orchestration framework capable of dynamically querying environmental, temporal, and real-time lodging data. By serving a 30-billion parameter foundation model locally on an enterprise GPU workstation, the system ensures data privacy and eliminates cloud API rate limits. The final system utilizes a cyclic Reasoning and Acting (ReAct) loop to dynamically anchor relative dates, pull weather forecasts, and retrieve active Airbnb accommodations to recommend optimized, weather-aware travel itineraries.
 Technical Stack & Architecture
